@@ -3,7 +3,7 @@ var fs = require('fs'),
     report = require('../../lib/report.js');
 
 var fixture = path.resolve(__dirname, './fixture.js'),
-    src = fs.readFileSync(fixture, { encoding: 'utf-8' }),
+    src = fs.readFileSync(fixture, 'utf-8'),
     data = report(src);
 
 describe('report', function() {
