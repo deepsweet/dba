@@ -37,13 +37,12 @@ Default value is `1000`. Why? I don't know. You can (and probably must) choose y
 #### ratio:
 
 ```
-ratio = comments / logical lines of code (count of the imperative statements)
+ratio = comments count / logical lines of code (count of the imperative statements)
 ```
 
 Default value is `0`, i.e. functions without any comments above or inside them.
 
 ### Try it
-
 ```sh
 $ npm i -g dba
 $ curl http://code.jquery.com/jquery-2.0.3.js -o jquery.js
@@ -89,5 +88,6 @@ line:name effort
 * [escomplex](https://github.com/philbooth/escomplex)
 * [escomplex-ast-moz](https://github.com/philbooth/escomplex-ast-moz)
 
-### License
-[MIT](https://github.com/deepsweet/dba/blob/master/LICENSE)
+### TODO
+* mix all the rest of Halstead metrics via CLI-options
+* recursively walk through a directories
