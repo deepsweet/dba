@@ -1,10 +1,11 @@
 {
   "name": "dba",
-  "version": "0.1.0-alpha",
+  "version": "0.1.0",
   "description": "Don't Be an Asshole",
   "keywords": [
-    "comments",
-    "codequality"
+    "codequality",
+    "complexity",
+    "halstead"
   ],
   "author": "Kir Belevich <kir@soulshine.in> (https://github.com/deepsweet)",
   "homepage": "https://github.com/deepsweet/dba",
@@ -16,6 +17,9 @@
     "url": "git://github.com/deepsweet/dba"
   },
   "license": "MIT",
+  "bin": {
+    "dba": "./bin/dba"
+  },
   "main": "lib/dba.js",
   "scripts": {
     "test": "make test"
@@ -28,6 +32,10 @@
   },
   "devDependencies": {
     "eslint": "~0.1.4",
-    "jscs": "~1.0.14"
+    "jscs": "~1.0.14",
+    "mocha": "~1.15.1",
+    "must": "~0.10.0",
+    "istanbul": "~0.1.46",
+    "coveralls": "~2.6.0"
   }
 }

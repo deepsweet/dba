@@ -1,0 +1,10 @@
+docs/
+examples/
+test/
+coverage/
+.editorconfig
+.eslintrc
+.jscs.json
+.travis.yml
+.coveralls.yml
+Makefile

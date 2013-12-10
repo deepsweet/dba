@@ -1,5 +1,5 @@
 ## Don't Be an Asshole
-[![Build Status](https://secure.travis-ci.org/deepsweet/dba.png)](https://travis-ci.org/deepsweet/dba) <a href="http://badge.fury.io/js/dba"><img src="https://badge.fury.io/js/dba@2x.png" alt="NPM version" height="18"></a> [![Dependency Status](https://gemnasium.com/deepsweet/dba.png)](https://gemnasium.com/deepsweet/dba) [![license MIT](http://b.repl.ca/v1/license-MIT-brightgreen.png)](https://github.com/deepsweet/dba/blob/master/LICENSE)
+<a href="http://badge.fury.io/js/dba"><img src="https://badge.fury.io/js/dba@2x.png" alt="NPM version" height="18"></a> [![Build Status](https://secure.travis-ci.org/deepsweet/dba.png)](https://travis-ci.org/deepsweet/dba) [![Coverage Status](https://coveralls.io/repos/deepsweet/dba/badge.png?branch=master)](https://coveralls.io/r/deepsweet/dba?branch=master) [![Dependency Status](https://gemnasium.com/deepsweet/dba.png)](https://gemnasium.com/deepsweet/dba) [![license MIT](http://b.repl.ca/v1/license-MIT-brightgreen.png)](https://github.com/deepsweet/dba/blob/master/LICENSE)
 
 ### Intro
 If you write a complex open-sourced JS code and don't comment it well, then you are an asshole. That's it.
