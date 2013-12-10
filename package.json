@@ -2,12 +2,12 @@
   "name": "dba",
   "version": "0.1.0",
   "description": "Don't Be an Asshole",
-  "keywords": [
-    "codequality",
-    "complexity",
-    "halstead"
-  ],
-  "author": "Kir Belevich <kir@soulshine.in> (https://github.com/deepsweet)",
+  "keywords": [ "codequality", "complexity", "halstead" ],
+  "author": {
+    "name": "Kir Belevich",
+    "email": "kir@soulshine.in",
+    "url": "https://github.com/deepsweet"
+  },
   "homepage": "https://github.com/deepsweet/dba",
   "bugs": {
     "url": "https://github.com/deepsweet/dba/issues"
@@ -37,5 +37,8 @@
     "must": "~0.10.0",
     "istanbul": "~0.1.46",
     "coveralls": "~2.6.0"
+  },
+  "engines": {
+    "node": ">=0.8.0"
   }
 }

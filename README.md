@@ -32,7 +32,7 @@ Halstead's formulation for the effort required to author (or understand) a
 program characterizes effort as proportional to both difficulty and volume.
 ```
 
-Default value is `1000`. Why? I don't know. You can (and probably must) choose your own value. Read more about [Halstead Metrics](http://www.grammatech.com/codesonar/metrics/halstead).
+Default value is `1000`. Why? I don't know. You can (and probably must) choose your own value. [Read more](http://www.grammatech.com/codesonar/metrics/halstead) about Halstead Metrics.
 
 #### ratio:
 
