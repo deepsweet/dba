@@ -1,4 +1,6 @@
 ## Don't Be an Asshole
+
+[![Join the chat at https://gitter.im/deepsweet/dba](https://badges.gitter.im/deepsweet/dba.svg)](https://gitter.im/deepsweet/dba?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 <a href="http://badge.fury.io/js/dba"><img src="https://badge.fury.io/js/dba@2x.png" alt="NPM version" height="18"></a> [![Build Status](https://secure.travis-ci.org/deepsweet/dba.png)](https://travis-ci.org/deepsweet/dba) [![Coverage Status](https://coveralls.io/repos/deepsweet/dba/badge.png?branch=master)](https://coveralls.io/r/deepsweet/dba?branch=master) [![Dependency Status](https://gemnasium.com/deepsweet/dba.png)](https://gemnasium.com/deepsweet/dba) [![license MIT](http://b.repl.ca/v1/license-MIT-brightgreen.png)](https://github.com/deepsweet/dba/blob/master/LICENSE)
 
 ### Intro
